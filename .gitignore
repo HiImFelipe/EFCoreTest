@@ -1,0 +1,6 @@
+# C# debugging and internal properties
+/obj
+/bin
+
+# VSCode launch options
+/.vscode
